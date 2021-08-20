@@ -1,0 +1,97 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/background.jpg",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": "assets/images/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images/BG.jpg",
+                "type": "image",
+                "key": "BG"
+            },
+            {
+                "url": "assets/images/bike.png",
+                "type": "image",
+                "key": "bike"
+            },
+            {
+                "url": "assets/images/bird.png",
+                "type": "image",
+                "key": "bird"
+            },
+            {
+                "url": "assets/images/car.png",
+                "type": "image",
+                "key": "car"
+            },
+            {
+                "url": "assets/images/cat.png",
+                "type": "image",
+                "key": "cat"
+            },
+            {
+                "url": "assets/images/correct.png",
+                "type": "image",
+                "key": "correct"
+            },
+            {
+                "url": "assets/images/dog.png",
+                "type": "image",
+                "key": "dog"
+            },
+            {
+                "url": "assets/images/dustbin.png",
+                "type": "image",
+                "key": "dustbin"
+            },
+            {
+                "url": "assets/images/endpage.png",
+                "type": "image",
+                "key": "endpage"
+            },
+            {
+                "url": "assets/images/false.png",
+                "type": "image",
+                "key": "false"
+            },
+            {
+                "url": "assets/images/fountain.png",
+                "type": "image",
+                "key": "fountain"
+            },
+            {
+                "url": "assets/images/grandma.png",
+                "type": "image",
+                "key": "grandma"
+            },
+            {
+                "url": "assets/images/start_button.png",
+                "type": "image",
+                "key": "start_button"
+            },
+            {
+                "url": "assets/images/startScreenBg.png",
+                "type": "image",
+                "key": "startScreenBg"
+            },
+            {
+                "url": "assets/images/sun.png",
+                "type": "image",
+                "key": "sun"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

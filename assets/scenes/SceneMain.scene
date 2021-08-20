@@ -1,0 +1,280 @@
+{
+    "id": "a65d025c-95d8-4e5d-b43e-7829e2d9bd3d",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "SceneMain"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "32b79ba8-0eae-4eb1-b29e-cc0c403335c3",
+            "label": "background",
+            "components": [],
+            "texture": {
+                "key": "background"
+            },
+            "x": 403,
+            "y": 304
+        },
+        {
+            "type": "Image",
+            "id": "e33d5958-55ee-44ad-b591-2a922f1b20e6",
+            "label": "ball",
+            "components": [],
+            "texture": {
+                "key": "ball"
+            },
+            "x": 293,
+            "y": 400,
+            "scaleX": 0.08921934715841301,
+            "scaleY": 0.08921934715841301
+        },
+        {
+            "type": "Image",
+            "id": "fad2a105-75d6-46f1-b88e-eedb612bb77e",
+            "label": "bike",
+            "components": [],
+            "texture": {
+                "key": "bike"
+            },
+            "x": 330,
+            "y": 310,
+            "scaleX": 0.16959514269039055,
+            "scaleY": 0.16959514269039055
+        },
+        {
+            "type": "Image",
+            "id": "8b1e8776-a440-457e-9a9d-23a8fc7bb81a",
+            "label": "bird",
+            "components": [],
+            "texture": {
+                "key": "bird"
+            },
+            "x": 231,
+            "y": 53,
+            "scaleX": 0.170608090608657,
+            "scaleY": 0.170608090608657
+        },
+        {
+            "type": "Image",
+            "id": "7286b8f7-65d6-453c-baf8-f91337b47cae",
+            "label": "cat",
+            "components": [],
+            "texture": {
+                "key": "cat"
+            },
+            "x": 704,
+            "y": 392,
+            "scaleX": 0.08565525217239767,
+            "scaleY": 0.08565525217239767
+        },
+        {
+            "type": "Image",
+            "id": "00e390fd-0018-46e9-a94f-7179810f05ef",
+            "label": "dog",
+            "components": [],
+            "texture": {
+                "key": "dog"
+            },
+            "x": 116,
+            "y": 380,
+            "scaleX": 0.06506311153070121,
+            "scaleY": 0.06506311153070121
+        },
+        {
+            "type": "Image",
+            "id": "4bdc982c-29ae-4f72-9ee8-490ea055abc1",
+            "label": "car",
+            "components": [],
+            "texture": {
+                "key": "car"
+            },
+            "x": 532,
+            "y": 299,
+            "scaleX": 0.24053165894554573,
+            "scaleY": 0.24053165894554573,
+            "angle": 3
+        },
+        {
+            "type": "Image",
+            "id": "73ef39a3-be87-4dd1-938f-56c7fe570931",
+            "label": "sun",
+            "components": [],
+            "texture": {
+                "key": "sun"
+            },
+            "x": 421,
+            "y": 68,
+            "scaleX": 0.20156792213072383,
+            "scaleY": 0.20156792213072383
+        },
+        {
+            "type": "Image",
+            "id": "650c5b0c-ef74-420c-a790-e9e377bd9ce3",
+            "label": "grandma",
+            "components": [],
+            "texture": {
+                "key": "grandma"
+            },
+            "x": 456,
+            "y": 357,
+            "scaleX": 0.2675600601605762,
+            "scaleY": 0.2675600601605762
+        },
+        {
+            "type": "Image",
+            "id": "e7983265-d856-46fd-b63f-5e9cd3bc7a50",
+            "label": "fountain",
+            "components": [],
+            "texture": {
+                "key": "fountain"
+            },
+            "x": 652,
+            "y": 329,
+            "scaleX": 0.08373457867503842,
+            "scaleY": 0.08373457867503842
+        },
+        {
+            "type": "Image",
+            "id": "42a1c5ec-f3ae-48af-b17a-ab615d9e52f2",
+            "label": "dustbin",
+            "components": [],
+            "texture": {
+                "key": "dustbin"
+            },
+            "x": 581,
+            "y": 388,
+            "scaleX": 0.377157402994059,
+            "scaleY": 0.377157402994059
+        },
+        {
+            "type": "Text",
+            "id": "f751413f-8428-484c-82fa-daffe1353853",
+            "label": "text",
+            "components": [],
+            "x": 43,
+            "y": 508,
+            "originX": 0,
+            "originY": 0,
+            "text": "маче\n",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "30px",
+            "fontStyle": "bold",
+            "color": "#124c0cff",
+            "backgroundColor": ""
+        },
+        {
+            "type": "Text",
+            "id": "353dea25-982f-47f2-98d0-6c3b0faf8a00",
+            "label": "text_1",
+            "components": [],
+            "x": 140,
+            "y": 509,
+            "originX": 0,
+            "originY": 0,
+            "text": "велосипед",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "30px",
+            "fontStyle": "bold",
+            "color": "#124c0cff"
+        },
+        {
+            "type": "Text",
+            "id": "806522bb-bfd1-4245-a200-46d934a7a6c3",
+            "label": "text_2",
+            "components": [],
+            "x": 306,
+            "y": 508,
+            "originX": 0,
+            "originY": 0,
+            "text": "автомобил",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "30px",
+            "fontStyle": "bold",
+            "color": "#124c0cff"
+        },
+        {
+            "type": "Text",
+            "id": "debec910-1112-4b7b-a077-20d9feb7d8aa",
+            "label": "text_3",
+            "components": [],
+            "x": 484,
+            "y": 508,
+            "originX": 0,
+            "originY": 0,
+            "text": "сонце",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "30px",
+            "fontStyle": "bold",
+            "color": "#124c0cff"
+        },
+        {
+            "type": "Text",
+            "id": "39dadc43-c70b-442f-859f-48b4cfdc1611",
+            "label": "text_4",
+            "components": [],
+            "x": 590,
+            "y": 509,
+            "originX": 0,
+            "originY": 0,
+            "text": "куче",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "30px",
+            "fontStyle": "bold",
+            "color": "#124c0cff"
+        },
+        {
+            "type": "Text",
+            "id": "33cd5a46-7618-4af1-ba1b-e97ff00d44a7",
+            "label": "text_5",
+            "components": [],
+            "x": 677,
+            "y": 510,
+            "originX": 0,
+            "originY": 0,
+            "text": "канта",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "30px",
+            "fontStyle": "bold",
+            "color": "#124c0cff"
+        },
+        {
+            "type": "Text",
+            "id": "a0af2343-c1d2-4f78-9ef2-6d8f31da01ff",
+            "label": "text_6",
+            "components": [],
+            "x": 520,
+            "y": 429,
+            "originX": 0,
+            "originY": 0,
+            "text": "SCORE : 0",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "25px",
+            "fontStyle": "bold",
+            "color": "#980808ff"
+        },
+        {
+            "type": "Text",
+            "id": "11fc4871-5ffc-463a-8742-fc82a4e0289c",
+            "label": "text_7",
+            "components": [],
+            "x": 668,
+            "y": 429,
+            "originX": 0,
+            "originY": 0,
+            "text": "TIMER : 0",
+            "fontFamily": "\"'Anton', sans-seriff\"",
+            "fontSize": "25px",
+            "fontStyle": "bold",
+            "color": "#980808ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
